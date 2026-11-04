@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khám Phá Thiên Nhiên</title>
+</head>
+<body>
+
+    <!-- Thẻ ngữ nghĩa 1: header -->
+    <header>
+        <h1>Chào Mừng Đến Với Thế Giới Thiên Nhiên</h1>
+    </header>
+
+    <!-- Thẻ ngữ nghĩa 2: main -->
+    <main>
+        <section>
+            <h2>Danh Sách Các Địa Điểm Nổi Bật</h2>
+            <!-- Danh sách gồm 3 mục -->
+            <ul>
+                <li>Rừng nguyên sinh</li>
+                <li>Bãi biển hoang sơ</li>
+                <li>Dãy núi hùng vĩ</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Thư Viện Hình Ảnh</h2>
+            <!-- 3 hình ảnh -->
+            <img src="https://imgs.search.brave.com/JvmG5THrfm2ZZcs-ccxji8dnQEmGkBn6YPEnR4fSW18/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/bWVkaWEuc2ZvcnVt/LnZuL3N0b3JhZ2Uv/YXBwL21lZGlhL2Fu/aC1kZXAtMTUuanBn" alt="Hình ảnh thiên nhiên 1">
+            <img src="https://imgs.search.brave.com/FnXAdjU8DZHl5ZhgwKII2AZMGrKCShYA9r2v-h24tF4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/bWVkaWEuc2ZvcnVt/LnZuL3N0b3JhZ2Uv/YXBwL21lZGlhL2Fu/aC1kZXAtNC5qcGc" alt="Hình ảnh thiên nhiên 2">
+            <img src="https://imgs.search.brave.com/u2YWdDa8mse_kFo6lpn1FICYB3cKdLGjn5w6n7uYGR8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taWEu/dm4vbWVkaWEvdXBs/b2Fkcy9ibG9nLWR1/LWxpY2gvdG9wLTEx/LXRoYWMtby1naWEt/bGFpLWR1b2MtdGhp/ZW4tbmhpZW4tYmFu/LWNoby1jYW5oLXNh/Yy1ob2FuLW15LTct/MTY1OTE4MjEyOS5q/cGc" alt="Hình ảnh thiên nhiên 3">
+        </section>
+
+        <section>
+            <h2>Tìm Hiểu Thêm</h2>
+            <!-- Liên kết đến nguồn bên ngoài -->
+            <p>Để biết thêm thông tin chi tiết về du lịch và bảo tồn, hãy truy cập <a href="https://www.nationalgeographic.com" target="_blank" rel="noopener noreferrer">National Geographic</a>.</p>
+        </section>
+    </main>
+
+    <!-- Thẻ ngữ nghĩa 3: footer -->
+    <footer>
+        <p>&copy; 2026 Trang Web Thiên Nhiên</p>
+    </footer>
+
+</body>
+</html>
